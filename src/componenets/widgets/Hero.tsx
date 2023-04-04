@@ -7,7 +7,7 @@ import Sarim from "../../../public/images/Sarim.jpeg";
 const Hero = () => {
   return (
     <div className="h-screen flex flex-col justify-center items-center text-center">
-      <Image src={Sarim} className="h-64 w-64 rounded-full" />
+      <Image src={Sarim} className="h-64 w-64 rounded-full" alt="sarim" />
       <h1 className="text-4xl sm:text-6xl font-semibold mt-6">
         Hi! I'm Sarim Khan
       </h1>
