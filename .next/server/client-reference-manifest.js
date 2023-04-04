@@ -103,6 +103,84 @@ self.__RSC_MANIFEST={
         "name": "default",
         "async": false
       }
+    },
+    "(app-client)/./public/images/Sarim.jpeg": {
+      "*": {
+        "id": "(sc_client)/./public/images/Sarim.jpeg",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/images/Sarim.jpeg",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/images/Sarim.jpeg",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/componenets/layout/Header.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/componenets/layout/Header.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/componenets/layout/Header.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/componenets/layout/Header.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "default",
+        "async": false
+      }
     }
   },
   "__edge_ssr_module_mapping__": {},
@@ -302,6 +380,102 @@ self.__RSC_MANIFEST={
     "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
     "chunks": [
       "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/public/images/Sarim.jpeg": {
+    "id": "(app-client)/./public/images/Sarim.jpeg",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/public/images/Sarim.jpeg#": {
+    "id": "(app-client)/./public/images/Sarim.jpeg",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/public/images/Sarim.jpeg#default": {
+    "id": "(app-client)/./public/images/Sarim.jpeg",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/node_modules/next/dist/client/image.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/node_modules/next/dist/esm/client/image.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/node_modules/next/dist/client/image.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/node_modules/next/dist/esm/client/image.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/node_modules/next/dist/client/image.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/node_modules/next/dist/esm/client/image.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/src/componenets/layout/Header.tsx": {
+    "id": "(app-client)/./src/componenets/layout/Header.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/src/componenets/layout/Header.tsx#": {
+    "id": "(app-client)/./src/componenets/layout/Header.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/apple/Desktop/MyCode/Portfolio/my-portfolio/src/componenets/layout/Header.tsx#default": {
+    "id": "(app-client)/./src/componenets/layout/Header.tsx",
+    "chunks": [
+      "app/layout:app/layout"
     ],
     "name": "default",
     "async": false
